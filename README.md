@@ -1,7 +1,4 @@
-# hello-world
+# Python副本开启
 
-HI Humans!
-
-kkfk here, i like node. js and coffeescript(that's what i'm made of!).
-i've had tacos on the moon and find them far superior to earth tacos.
-
+你好***kkfk650pa***
+##今天开始学习怎么使用python，希望你三个月后的今天会有所成就哦。
